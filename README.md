@@ -15,7 +15,7 @@
 </div>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/">📃 Arxiv</a> &nbsp; | &nbsp;
+  <a href="http://arxiv.org/abs/2507.07603">📃 Arxiv</a> &nbsp; | &nbsp;
   <a href="https://drive.google.com/file/d/1IwUqABs91H14rpSGne1pDON9Dbsvm-AK/view?usp=sharing">📊 Raw Results</a>
 </p>
 
@@ -202,7 +202,15 @@ We kindly ask you to cite our paper along with SAM 2 if you find this work valua
 
 
 ```
-#TODO#
+@misc{chen2025him2sam,
+      title={HiM2SAM: Enhancing SAM2 with Hierarchical Motion Estimation and Memory Optimization towards Long-term Tracking}, 
+      author={Ruixiang Chen and Guolei Sun and Yawei Li and Jie Qin and Luca Benini},
+      year={2025},
+      eprint={2507.07603},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2507.07603}, 
+}
 
 @article{ravi2024sam2,
   title={SAM 2: Segment Anything in Images and Videos},
