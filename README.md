@@ -10,7 +10,7 @@
 
 ¹ KTH Royal Institute of Technology, Stockholm, Sweden  
 ² CVL, ETH Zurich, Zurich, Switzerland  
-³ ISS, ETH Zurich, Zurich, Switzerland  
+³ IIS, ETH Zurich, Zurich, Switzerland  
 ⁴ Nanjing University of Aeronautics and Astronautics, Nanjing, China
 </div>
 
