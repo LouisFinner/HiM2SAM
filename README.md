@@ -94,7 +94,7 @@ cd ..
 ```
 
 2. **Install CoTracker 3**  
-  HHiM2SAM uses the offline version of CoTracker 3 for pixel-level motion estimation. For more details about the model, please refer to [CoTracker 3](https://github.com/facebookresearch/co-tracker).
+  HiM2SAM uses the offline version of CoTracker 3 for pixel-level motion estimation. For more details about the model, please refer to [CoTracker 3](https://github.com/facebookresearch/co-tracker).
 
     The model can be easily loaded via torch.hub and will be automatically downloaded upon first use, requiring no additional setup.
 
