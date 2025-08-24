@@ -135,7 +135,7 @@ model:
   rvcot_mem_selection: False
   rvcot_mem_sel_intv: 5
   rvcot_mem_long_len: 1
-  rvcot_mem_sel_ram_intv: 2
+  rvcot_mem_sel_short_intv: 2
   rvcot_mem_selection_method: 'default'
   rvcot_mem_sel_intioutred: 0.7
   rvcot_siou_ratio_threshold: 1.5
