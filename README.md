@@ -4,6 +4,8 @@
 # HiM2SAM 
 **Enhancing SAM2 with Hierarchical Motion Estimation and Memory Optimization towards Long-term Tracking**
 
+_PRCV25_
+
 ** **  
 [Ruixiang Chen](https://scholar.google.com/citations?user=U_ew7O4AAAAJ&hl=en)¹, [Guolei Sun](https://guoleisun.github.io)²<sup>✉</sup>, [Yawei Li](https://yaweili.bitbucket.io)³, [Jie Qin](https://sites.google.com/site/firmamentqj/)⁴, [Luca Benini](https://ee.ethz.ch/the-department/people-a-z/person-detail.luca-benini.html)³
 
